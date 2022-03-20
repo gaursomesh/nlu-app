@@ -1,6 +1,6 @@
 ---
 applications:
-  - name: nlu-app-sg
+  - name: nlu-app
     buildpacks:
       - nodejs_buildpack
     path: .
